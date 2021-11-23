@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandy3002
-- 👀 I’m interested in sleeping
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning c
 
 <!---
