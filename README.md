@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandy3002
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c & c++
 
 <!---
 sandy3002/sandy3002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
