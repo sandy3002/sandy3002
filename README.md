@@ -1,5 +1,5 @@
 <h1 align="left">Hello there, I'm Sandipan Chatterjee</h1>
-<h3 align="left">A aspiring developer from India</h3>
+<h3 align="left">An aspiring developer from India</h3>
 
 - 📝 I'm a second year undergraduate student in **J.G.E.C.**
 
