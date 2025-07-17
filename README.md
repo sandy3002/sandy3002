@@ -1,7 +1,7 @@
 <h1 align="left">Hello there, I'm Sandipan Chatterjee</h1>
 <h3 align="left">An aspiring developer from India</h3>
 
-- 📝 I'm a second year undergraduate student in **J.G.E.C.**
+- 📝 I'm a undergraduate student from **J.G.E.C.**
 
 - 🌱 I’m currently learning **Frontend developement** and **DSA**
 
@@ -9,12 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/sandy3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandy3002" height="30" width="40" /></a>
 <a href="https://twitter.com/sandipan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandipan3002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandipan-chatterjee-07112b174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-chatterjee-07112b174" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17711885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17711885" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sandy3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sandy3002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandy3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandy3002" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
